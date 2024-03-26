@@ -6,8 +6,6 @@
 - 效果图(运行是动态！but我不会添加动态图片)：
 - update：可以在爱心上面，中间加上自己想要写的字啦，如果不需要字的话，也可以注释掉那一行，你也可以根据自己的喜好调整位置。
 
-- ![image](https://user-images.githubusercontent.com/111479382/202733073-802ba524-05d7-41ed-aa65-70ef9ac8e377.png)
-
 - ❤爱心和字体的颜色也是可以做更改的，下面是一些颜色跟图谱，喜欢的话，可以给个star哟❤🧡💛💚💙💜🤎🖤🤍
 - 'aliceblue':            '#F0F8FF',
   'antiquewhite':         '#FAEBD7',
@@ -150,6 +148,6 @@
   'yellow':               '#FFFF00',
   'yellowgreen':          '#9ACD32'
 
-- ![image](https://user-images.githubusercontent.com/111479382/202726321-df4a8795-4264-42d9-959f-ac91c4c7b6ce.png)
 
-- 🍕 要是有事情可以发邮件（2212294009@qq.com）给我。
+
+- 🍕 要是有事情可以发邮件（2392232609@qq.com）给我。
